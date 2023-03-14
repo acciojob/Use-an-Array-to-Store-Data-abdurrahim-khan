@@ -1,1 +1,1 @@
-var yourArray = ['khan',22,true,null,undefined]
+yourArray = ['khan',22,true,"hey",56.9];
